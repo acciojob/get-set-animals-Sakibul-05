@@ -13,7 +13,7 @@ class Animal{
 
 class Cat extends Animal{
   purr(){
-    return 'Purr';
+    return 'purr';
   }
 }
 
